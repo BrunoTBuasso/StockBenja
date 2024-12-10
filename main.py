@@ -2,6 +2,7 @@ import flet as ft
 import pymysql
 from datetime import datetime
 
+print("Hola Benja")
 # Conexión a la base de datos MySQL
 def conectar_db():
     try:
